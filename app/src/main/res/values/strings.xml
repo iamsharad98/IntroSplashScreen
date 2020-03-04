@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntroSplashScreen</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="management">With a bank account management feature, users can monitor their cards and bank account.</string>
+    <string name="tracking">Users can get more control over their finances and reach their saving goals.</string>
+    <string name="support">Customer can get professional consultation or advice anytime they need it.</string>
+</resources>
